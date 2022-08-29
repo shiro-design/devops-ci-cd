@@ -1,4 +1,3 @@
-# A Java Demo Application for CI_CD
 ## Build Code
 ![build](./Asset/Build.png)
 
